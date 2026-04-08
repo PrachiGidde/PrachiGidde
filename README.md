@@ -26,5 +26,5 @@ turning messy datasets into clear business insights.
 - 📝 Writing about data on [Medium/blog link]
 
 ## Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prachi_Gidde-blue)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-your@email.com-red)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prachi_Gidde-blue)](www.linkedin.com/in/prachi-gidde)
+[![Email](https://img.shields.io/badge/Email-your@email.com-red)](mailto:prachigidde@email.com)
