@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Prachi 👋
 
-<!--
-**PrachiGidde/PrachiGidde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data analyst based in Pune, India, passionate about
+turning messy datasets into clear business insights.
 
-Here are some ideas to get you started:
+## What I work with
+- **Languages:** Python, SQL
+- **Libraries:** pandas, NumPy, Matplotlib, Seaborn
+- **Tools:** Google Colab, Excel, Power BI, Tableau, Git
+- **Databases:** MySQL, SQLite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+
+| Project | Description | Tools |
+|---------|-------------|-------|
+| [Ecommerce Sales EDA](link) | Trend & revenue analysis on 50K rows | pandas, Seaborn |
+| [Retail SQL Analysis](link) | 15 business queries with window functions | SQL, SQLite |
+| [IPL Dashboard](link) | Interactive stats app — live demo | Streamlit, Plotly |
+| [HR Attrition Analysis](link) | Excel-to-Python cleaning pipeline | pandas, openpyxl |
+| [Sales Power BI Dashboard](link) | End-to-end business dashboard | Power BI, Excel |
+| [Store Performance Tableau](link) | Regional sales visual story | Tableau, SQL |
+
+## Currently
+- 🌱 Deepening SQL skills (window functions, CTEs)
+- 📊 Building dashboards in Power BI and Tableau
+- 📝 Writing about data on [Medium/blog link]
+
+## Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prachi_Gidde-blue)](your-linkedin-url)
+[![Email](https://img.shields.io/badge/Email-your@email.com-red)](mailto:your@email.com)
